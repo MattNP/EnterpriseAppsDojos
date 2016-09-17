@@ -1,0 +1,3 @@
+[submodule "fruits-app"]
+	path = fruits-app
+	url = https://github.com/MattNP/fruits-app.git
