@@ -1,3 +1,6 @@
 [submodule "fruits-app"]
 	path = fruits-app
 	url = https://github.com/MattNP/fruits-app.git
+[submodule "react-motel"]
+	path = react-motel
+	url = https://github.com/MattNP/react-motel.git
